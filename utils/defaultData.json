@@ -1,0 +1,61 @@
+{
+  "info": {
+    "name": "Hello World Company",
+    "alias": "Hello World.",
+    "commerce": "digital agency",
+    "description": "We are an end-to-end agency that innovates to find new trends and develop game-breaking metas.",
+    "website": "www.nice-try.co",
+    "email": "contact@helloworld.co",
+    "copyright": "Hello World.",
+    "author": "Eugene Ochako"
+  },
+  "texts": {
+    "about": "We are an end-to-end agency that innovates to find new trends and develop game-breaking metas",
+    "skills": {
+      "title": "Our skillset",
+      "description": "We aid our clients from the early stages of a project, all the way up to the endgame. We have the expertise and the right tools to help organizations level up their brands."
+    },
+    "meet": "Our Team Members were part of these rosters:",
+    "contact": "Let’s meet at the arena"
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "strategy",
+      "description": [
+        "Digital Marketing",
+        "Brand Strategy / Planning",
+        "Research"
+      ],
+      "svgPath": "/svg-cards/01-Strategy.svg"
+    },
+    {
+      "id": "2",
+      "name": "gaming",
+      "description": [
+        "Team Management",
+        "Events & Tournaments",
+        "Live Streams"
+      ],
+      "svgPath": "/svg-cards/02-Gaming.svg"
+    },
+    {
+      "id": "3",
+      "name": "design",
+      "description": ["Branding", "UX / UI", "Motion"],
+      "svgPath": "/svg-cards/03-Design.svg"
+    },
+    {
+      "id": "4",
+      "name": "Product Development",
+      "description": ["Web Dev", "App Development"],
+      "svgPath": "/svg-cards/04-Development.svg"
+    },
+    {
+      "id": "5",
+      "name": "content",
+      "description": ["Content Production", "Live Streams", "Audiovisual"],
+      "svgPath": "/svg-cards/05-Marketing.svg"
+    }
+  ]
+}
